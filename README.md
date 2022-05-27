@@ -7,7 +7,7 @@ An application of generative adversarial networks to seismic data processing (re
 
 ## Project Organization
 
-![image]([https://github.com/leilin1995/Higher-Resolution-and-Less-Noisy-Seismic-Images-An-Application-of-Generative-Adversarial-Neural-Net/blob/master/master.png](https://github.com/leilin1995/Higher-Resolution-and-Less-Noisy-Seismic-Images-An-Application-of-Generative-Adversarial-Neural-Net/blob/master/master.png))
+![image](https://github.com/leilin1995/Higher-Resolution-and-Less-Noisy-Seismic-Images-An-Application-of-Generative-Adversarial-Neural-Net/blob/master/master.png)
 
 
 ## Code

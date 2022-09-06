@@ -16,7 +16,7 @@ All training and test code are in the directory **code**.
 
 ## Dataset
 
-The three filed seismic images and the reconstructed images by our method are in **application** folder.The synthetic seismic data used for training can be obtained by visting the "".
+The three filed seismic images and the reconstructed images by our method are in **application** folder.The synthetic seismic data used for training can be obtained by visting the "https://lcl777-my.sharepoint.com/:u:/g/personal/leilin_lcl777_onmicrosoft_com/EduHxfqcXYRNrbwfxRvxL7kB1IUNEEeb0NMjv9cUL1OJaA?e=cohggV".
 
 ## Dependencies
 

@@ -1,5 +1,5 @@
 # SeisGAN: Improving Seismic Image Resolution and Reducing Noise Using a Generative Adversarial Network
-An application of generative adversarial networks to seismic data processing (resolution ehancement and denoising). This is a repository for the paper "SeisGAN: Improving Seismic Image Resolution and Reducing Noise Using a Generative Adversarial Network" (submit to GJI).
+An application of generative adversarial networks to seismic data processing (resolution ehancement and denoising). This is a repository for the paper "SeisGAN: Improving Seismic Image Resolution and Reducing Noise Using a Generative Adversarial Network" (submit to "Computers and Geosciences").
 
 
 ## Example

@@ -111,9 +111,6 @@ def main(opt):
             fake_out = netD(fake_img).mean()
             g_loss = generator_criterion(fake_out,fake_img,real_img)
             g_loss.backward()
-
-            fake_img = netG(z)
-            fake_out = netD(fake_img).mean()
             optimizerG.step()
 
             # mse

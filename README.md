@@ -40,11 +40,19 @@ Then use application_filed.py --test_data_path="your data path" --save_path="you
 If you find this work useful in your research, please consider citing:
 
 ```
-
+Lin L, Zhong Z, Cai C, et al. SeisGAN: Improving Seismic Image Resolution and Reducing Random Noise Using a Generative Adversarial Network[J]. Mathematical Geosciences, 2023: 1-27.
 ```
 
 BibTex
 
-```html
+```
+@article{lin2023seisgan,
+  title={SeisGAN: Improving Seismic Image Resolution and Reducing Random Noise Using a Generative Adversarial Network},
+  author={Lin, Lei and Zhong, Zhi and Cai, Chuyang and Li, Chenglong and Zhang, Heng},
+  journal={Mathematical Geosciences},
+  pages={1--27},
+  year={2023},
+  publisher={Springer}
+}
 
 ```

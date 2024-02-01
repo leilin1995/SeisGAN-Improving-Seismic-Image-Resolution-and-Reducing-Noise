@@ -1,1 +1,1 @@
-You can get the training datasets by visiting "https://lcl777-my.sharepoint.com/:u:/g/personal/leilin_lcl777_onmicrosoft_com/EduHxfqcXYRNrbwfxRvxL7kB1IUNEEeb0NMjv9cUL1OJaA?e=cohggV". And use the downloaded folder instead of this one.
+You can get the training datasets by visiting "https://www.kaggle.com/datasets/leilin1995/seisgan". And use the downloaded folder instead of this one.

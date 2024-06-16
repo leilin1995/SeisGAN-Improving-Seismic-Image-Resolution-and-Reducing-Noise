@@ -1,1 +1,1 @@
-Please visit "https://lcl777-my.sharepoint.com/:u:/g/personal/leilin_lcl777_onmicrosoft_com/EduHxfqcXYRNrbwfxRvxL7kB1IUNEEeb0NMjv9cUL1OJaA?e=cohggV" to download the VGG16 pre-training model and place it under this file.
+Please visit "https://cugeducn-my.sharepoint.com/:u:/g/personal/leilin_cug_edu_cn/EYA-UhQ6Mk9KrVYSw6IOBUUB69kLhWUDd3fJqhsm0GVqCQ?e=kob0MX" to download the VGG16 pre-training model and place it under this file.
